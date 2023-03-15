@@ -30,7 +30,7 @@ Explore in light of this, and keep spreading the love.
 > Run & Enjoy.
 > Default Admin ID-Pass is (Dev). But self made account is preferred for best experience.
 
-N.B. Program can be buggy which vary PC 2 PC config. Please, be patient while experienceing low performance.
+N.B. Program can be buggy which vary PC 2 PC config. Please, be patient while experienceing low performance. For source code star this repo and mail me to get updated.
 
 Created By Shourav Deb
 Talk To Me: heyneeddev@gmail.com
