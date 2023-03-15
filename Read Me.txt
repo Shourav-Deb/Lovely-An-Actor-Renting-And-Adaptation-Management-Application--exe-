@@ -19,16 +19,14 @@ Software Features :
 4. Consumers have the option of manually recovering their accounts or using support.
 5. For different input, you'll get different results.
 
-You only really need one app to handle everything. I tried to make the page as user-friendly as possible. Even so, some optimization flaws may still exist. Still, hope you enjoy this. 
+You only really need one app to handle everything. I tried to make the app as user-friendly as possible. Even so, some optimization flaws may still exist. Still, hope you enjoy this. 
 Explore in light of this, and keep spreading the love. 
 
 
 # Perform These Prior To Running
 ---------------------------------
-> Move TheFamilyProject File In C Folder To Execute Properly.
-> Then Open NetBeans 13 Or Higher Version.
-> Make Sure To Use At Least NetBeans 13 & Java JDK 18 Version.
-> Import The Project.
+> Move "TheFamilyProject" Folder In (C:) Drive Folder To Execute Properly.
+> Then Get The 'Lovely - Get & Spread Love.exe' File.
 > Run & Enjoy.
 > Default Admin ID-Pass is (Dev). But self made account is preferred for best experience.
 
