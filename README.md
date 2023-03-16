@@ -34,7 +34,7 @@ Will work on it after the repository reaches 100 stars.<br><img width="60" src="
 
 # Perform These Prior To Running
 * Go to the link in the Download folder & download the file.
-* Unzip File _ (Pass is Dev).      [N.B Verify that "TheFamilyProject" subfolders don't include subfolders with the same name after unzipping.]
+* Unzip File _ (Pass is Dev). ______ [N.B Verify that "TheFamilyProject" subfolders don't include subfolders with the same name after unzipping.]
 * Move "TheFamilyProject" Folder In (C:) Drive Folder To Execute Properly.
 * Then Get The 'Lovely - Get & Spread Love.exe' File.
 * Run & Enjoy.
