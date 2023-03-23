@@ -41,7 +41,7 @@ Will work on it after the repository reaches 100 stars.<br><img width="60" src="
 * Default Admin ID-Pass is (Dev). But self made account is preferred for best experience.
 <br>
 <p> N.B.- <br>
-       1. Java package needs to be installed for runtime environment. [Ref - "https://www.oracle.com/in/java/technologies/downloads/"]<br>
+       1. Java package needs to be installed for runtime environment. [Ref:- "https://www.oracle.com/in/java/technologies/downloads/"]<br>
        2. Program can be buggy which vary PC 2 PC config. Please, be patient while experienceing low performance.<br>
        3. For source code star this repo and mail me to get updated.<br></p>
 <br>
